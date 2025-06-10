@@ -1,6 +1,11 @@
 ## Platforms to explore
 - [Moveit](http://picknik.ai/moveit/)
 - [Nav2](https://docs.nav2.org/index.html)
+
+## Links 
+- [NVIDIA Isaac ROS on GitHub](https://github.com/NVIDIA-ISAAC-ROS)
+- [NVIDIA Isaac ROS](https://nvidia-isaac-ros.github.io/)
+
 ## Courses
 1. [Robotics101 from VisCircuit](https://robotics101-viscircuit.web.app/robotics/translation)
 2. [Introduction to Robots and Robotics | NPTEL Course](https://archive.nptel.ac.in/courses/112/105/112105249/)
