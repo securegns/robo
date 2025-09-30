@@ -1,10 +1,13 @@
 ## Platforms to explore
 - [Moveit](http://picknik.ai/moveit/)
 - [Nav2](https://docs.nav2.org/index.html)
-
+- [https://app.pmksplus.com/]https://app.pmksplus.com/
 ## Links 
 - [NVIDIA Isaac ROS on GitHub](https://github.com/NVIDIA-ISAAC-ROS)
 - [NVIDIA Isaac ROS](https://nvidia-isaac-ros.github.io/)
+
+## Books
+[A Mathematical Introduction to Robotic Manipulation](https://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)
 
 ## Courses
 1. [Robotics101 from VisCircuit](https://robotics101-viscircuit.web.app/robotics/translation)
