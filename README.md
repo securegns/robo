@@ -21,5 +21,5 @@
 1. Kinematics
 2. Dynamics
 3. Inverse Kinematics
-4. [Linear Algebra](https://web.mit.edu/18.06/www/), Calculus, Probability
+4. Linear Algebra [MIT](https://web.mit.edu/18.06/www/) [3blue1brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), Calculus, Probability
 5. 
