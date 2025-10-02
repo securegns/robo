@@ -14,6 +14,7 @@
 2. Introduction to Robots and Robotics | NPTEL Course [youtube playlist](https://www.youtube.com/watch?v=rYWJdZ5qg6M&list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_)
 3. [Nvidia Robotics Learning Path](https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web) Consists of Multiple free courses from Nvidia
 4. [NVIDIA Isaac Sim/Lab/ROS | YT playlist](https://www.youtube.com/watch?v=2FYBaDzcm6k&list=PL5XrKGU0rYkg5u98fsi5yBCXVuguyQZ9Z)
+5. [MIT 6.832 Underactuated Robotics](https://www.youtube.com/watch?v=Z8oMbOj9IWM)
 
 ![Alt Text](https://media.tenor.com/BA62eweT4sMAAAAM/10years-for-visual-wonder-robo-rajinikanth.gif)
 
