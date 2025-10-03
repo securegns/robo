@@ -1,3 +1,5 @@
+## Important notes
+- Getting started with robotics - [How to Start Robotics for Beginners | Step by Step with ROS2, ESP32, and SLAM](https://www.youtube.com/watch?v=xgQqXRAkhUU)
 ## Platforms to explore
 - [Moveit](http://picknik.ai/moveit/)
 - [Nav2](https://docs.nav2.org/index.html)
